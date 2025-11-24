@@ -4,7 +4,7 @@
 I enjoy building scalable web applications and learning new technologies that bridge frontend design with backend logic.
 
 ---
-<img src"https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+<img src = "https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 ## 💻 Tech Stack
 **Frontend:** HTML, CSS, JavaScript (ES6), Bootstrap, AJAX  
